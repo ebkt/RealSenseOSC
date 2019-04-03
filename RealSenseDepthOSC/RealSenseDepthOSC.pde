@@ -50,7 +50,7 @@ void draw(){
   image(camera.getDepthImage(), 0, 0);
   
   // create variables for finding pixels of interest
-  int skip = 5;
+  int skip = 3;
   float sumX = 0;
   float sumY = 0;
   float totalPixels = 0;
