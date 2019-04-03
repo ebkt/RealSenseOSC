@@ -1,3 +1,15 @@
+/* This example is based on Florian Bruggisser's examples for his 
+RealSense for Processing library
+
+OSC functionality is from the oscP5 examples by Andreas Schleger
+
+Inspiration from Daniel Schiffman's average point hand tracking with Kinect
+https://www.youtube.com/watch?v=Kr4s5sLoROY&list=PLRqwX-V7Uu6ZMlWHdcy8hAGDy6IaoxUKf&index=4
+
+Elias Berkhout, Interactive Media Lab
+UNSW Art & Design
+*/
+
 import ch.bildspur.realsense.*;
 import oscP5.*;
 import netP5.*;
