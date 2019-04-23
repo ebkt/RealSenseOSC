@@ -1,5 +1,5 @@
 # Max/Realsense Installation Guide
-Make sure you have downloaded the most recent version of Processing from [the website](www.processing.org)
+Make sure you have downloaded the most recent version of Processing from [the website](processing.org)
 (this has been tested with version 3.5.3)
 
 Open Processing and select the Sketch drop down menu, followed by 
